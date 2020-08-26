@@ -1,0 +1,4 @@
+# 2019-20
+U ovom dokumentu se nalaze gerber fajlovi, 3D modeli svih elemenata, BOM, source kod
+Napomena: posto je ceo kod radjen na STM32 potrebno je obratiti se mentoru za implenetaciju punog projekta
+Jos uvek ne postoji spremna procedura za stm
