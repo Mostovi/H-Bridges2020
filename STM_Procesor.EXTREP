@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: STM_Procesor.GBR   17.12.2019.  00.23.44
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                PW1                                     
+.gbr                PW2                                     
+.gbr                PGND                                    
+.gbr                SGND                                    
+.gbr                S2                                      
+.gbr                S1                                      
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Bottom Overlay                          
+.gbr                Bottom Solder                           
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Top Solder                              
+.gbr                Keep-Out Layer                          
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------

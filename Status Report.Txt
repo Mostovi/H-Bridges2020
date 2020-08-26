@@ -1,0 +1,20 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [STM_Procesor.PrjPcb]
+   Generated File[STM_Procesor.TXT]
+   Generated File[STM_Procesor.TX1]
+   Generated File[STM_Procesor.TX2]
+   Generated File[STM_Procesor.TX3]
+   Generated File[STM_Procesor.TX4]
+   Generated File[STM_Procesor.TX5]
+   Generated File[STM_Procesor.TX6]
+   Generated File[STM_Procesor.TX7]
+   Generated File[STM_Procesor.TX8]
+   Generated File[STM_Procesor.LDP]
+   Generated File[STM_Procesor.DRR]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 00.24.02 On 17.12.2019.

@@ -1,0 +1,88 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: STM_Procesor.PcbDoc   17.12.2019.  00.24.01
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : PW1 to S1
+ASCII RoundHoles File : STM_Procesor.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             55        PTH        0.00mm (0.00inch)
+T2      0.3mm (12mil)                                             Round             2         PTH        0.00mm (0.00inch)
+T3      0.65mm (26mil)                                            Round             4         PTH        0.00mm (0.00inch)
+T4      0.76mm (30mil)                                            Round             4         PTH        0.00mm (0.00inch)
+T5      0.8mm (31mil)                                             Round             35        PTH        0.00mm (0.00inch)
+T6      2mm (79mil)                                               Round             12        PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              112
+Layer Pair : PW1 to PGND
+ASCII RoundHoles File : STM_Procesor.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             28        PTH        0.00mm (0.00inch)
+T2      0.3mm (12mil)                                             Round             6         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              34
+Layer Pair : PW1 to PW2
+ASCII RoundHoles File : STM_Procesor.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             8         PTH        0.00mm (0.00inch)
+T2      0.3mm (12mil)                                             Round             1         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              9
+Layer Pair : PGND to S1
+ASCII RoundHoles File : STM_Procesor.TX3
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             64        PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              64
+Layer Pair : SGND to S2
+ASCII RoundHoles File : STM_Procesor.TX4
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             25        PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              25
+Layer Pair : SGND to S1
+ASCII RoundHoles File : STM_Procesor.TX5
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             34        PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              34
+Layer Pair : PW2 to PGND
+ASCII RoundHoles File : STM_Procesor.TX6
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             1         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1
+Layer Pair : PW2 to S1
+ASCII RoundHoles File : STM_Procesor.TX7
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             24        PTH        0.00mm (0.00inch)
+T2      0.3mm (12mil)                                             Round             1         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              25
+Layer Pair : S2 to S1
+ASCII RoundHoles File : STM_Procesor.TX8
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             47        PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              47
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              351
+
+Total Processing Time (hh:mm:ss) : 00.00.01

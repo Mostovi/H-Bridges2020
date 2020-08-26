@@ -1,0 +1,10 @@
+Layer Pairs Export File for PCB: C:\Users\IFEC\Desktop\PCB_2020\Rezerva\STM_Procesor.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=stm_procesor.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=PW1_PGND_Blind_Vias|DrillFile=stm_procesor.tx1|DrillLayers=gtl,g1,g2
+LayersSetName=PW1_PW2_Blind_Vias|DrillFile=stm_procesor.tx2|DrillLayers=gtl,g1
+LayersSetName=PGND_S1_Blind_Vias|DrillFile=stm_procesor.tx3|DrillLayers=g2,g3,g4,gbl
+LayersSetName=SGND_S2_Buried_Vias|DrillFile=stm_procesor.tx4|DrillLayers=g3,g4
+LayersSetName=SGND_S1_Blind_Vias|DrillFile=stm_procesor.tx5|DrillLayers=g3,g4,gbl
+LayersSetName=PW2_PGND_Buried_Vias|DrillFile=stm_procesor.tx6|DrillLayers=g1,g2
+LayersSetName=PW2_S1_Blind_Vias|DrillFile=stm_procesor.tx7|DrillLayers=g1,g2,g3,g4,gbl
+LayersSetName=S2_S1_Blind_Vias|DrillFile=stm_procesor.tx8|DrillLayers=g4,gbl
